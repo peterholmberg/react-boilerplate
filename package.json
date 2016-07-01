@@ -19,7 +19,7 @@
     "react-router": "^2.4.0",
     "redux": "^3.5.2",
     "redux-reset": "^0.2.0",
-    "redux-thunk": "^2.0.1",
+    "redux-thunk": "^2.0.1"
   },
   "devDependencies": {
     "auto-reload-brunch": "~2.0.0",

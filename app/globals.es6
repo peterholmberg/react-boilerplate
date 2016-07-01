@@ -1,0 +1,2 @@
+
+export const ApiUrl = '#APIURL#';

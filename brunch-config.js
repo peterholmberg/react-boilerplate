@@ -28,7 +28,7 @@ exports.config = {
 
   server: {
     hostname: '0.0.0.0',
-    port: 4444,
+    port: 3333,
     run: true
   }
 };
