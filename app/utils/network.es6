@@ -1,5 +1,4 @@
 import axios, { xhr, dispatchRequest } from 'axios';
-import { getAuthToken } from './session';
 import { ApiUrl } from '../globals';
 
 const instance = axios.create({
@@ -18,7 +17,6 @@ function getJsonHeaders() {
       headers: {
          'Accept': 'application/json',
          'Content-Type': 'application/json',
-         'Authorization': 'Basic ' + getAuthToken()
       }
    }
 }
