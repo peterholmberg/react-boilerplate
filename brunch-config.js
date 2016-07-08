@@ -19,10 +19,10 @@ exports.config = {
 
   files: {
     javascripts: {
-      joinTo: 'javascripts/my-pages.js'
+      joinTo: 'javascripts/react-boilerplate.js'
     },
     stylesheets: {
-      joinTo: 'stylesheets/my-pages.css'
+      joinTo: 'stylesheets/react-boilerplate.css'
     }
   },
 
